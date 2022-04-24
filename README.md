@@ -9,6 +9,6 @@
    - email : lukealexanderstewart@gmail.com
    - discord : marshy#4145
    - github : github.com/moeshy
-   - slack : Luke S 
+   - SoC slack : Luke S 
   
  
