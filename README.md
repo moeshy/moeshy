@@ -9,8 +9,8 @@
   (TBA)
  
  📫 How to get in touch:
-   email : lukealexanderstewart@gmail.com
-   discord : marshy#4145
-   github : github.com/moeshy
+   -email : lukealexanderstewart@gmail.com
+   -discord : marshy#4145
+   -github : github.com/moeshy
   
  
