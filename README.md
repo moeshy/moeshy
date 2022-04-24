@@ -5,8 +5,8 @@
  </div>
  
  <div align="left">
- 📝 A list of what I'm learning:
-  - (TBA)
+ 📝 A list of what I'm learning: 
+   - (TBA)
  
  📫 How to get in touch:
    - email : lukealexanderstewart@gmail.com
